@@ -1,0 +1,101 @@
+/* variables */
+:root {
+  --verde: #2a9d8f;
+  --amarillo: #e9c46a;
+  --naranja: #f4a261;
+  --rosa: #e76f51;
+  --azul: #264653;
+}
+
+.limon {
+  background: lime;
+}
+
+.prueba {
+  background: #fff4cc;
+}
+
+.separator {
+  background: linear-gradient(90deg, rgba(233,196,106,1) 0%, rgba(42,157,143,1) 100%);
+}
+
+.bdTop {
+  border-top: 2px solid red;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.fijo {
+  position: sticky;
+  top: 0;
+}
+
+.link:hover {
+  color: var(--azul) !important;
+}
+
+.text-shadow {
+  background-color: var(--azul);
+  border-radius: 5px;
+  padding: 0 5px 2px;
+}
+
+.mensaje {
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px gray;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sombra:hover {
+  box-shadow: 0px 0px 50px var(--amarillo);
+}
+.sombra2:hover {
+  box-shadow: 0px 0px 50px var(--verde);
+}
+
+/* PALETA DE COLORES */
+/* background */
+.verde {
+  background: #2a9d8f;
+}
+
+.amarillo {
+  background: #e9c46a;
+}
+
+.naranja {
+  background: #f4a261;
+}
+
+.rosa {
+  background: #e76f51;
+}
+
+.azul {
+  background: #264653 !important;
+}
+/* color */
+.c-verde {
+  color: #2a9d8f;
+}
+
+.c-amarillo {
+  color: #e9c46a;
+}
+
+.c-naranja {
+  color: #f4a261;
+}
+
+.c-rosa {
+  color: #e76f51;
+}
+
+.c-azul {
+  color: #264653;
+}
