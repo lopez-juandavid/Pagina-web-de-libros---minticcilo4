@@ -1,0 +1,64 @@
+/* variables */
+:root {
+  --verde: #2a9d8f;
+  --amarillo: #e9c46a;
+  --naranja: #f4a261;
+  --rosa: #e76f51;
+  --azul: #264653;
+}
+
+.limon {
+  background: lime;
+}
+
+.prueba {
+  background: #fff4cc;
+}
+
+.bdTop {
+  border-top: 2px solid red;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.fijo {
+  position: sticky;
+  top: 0;
+}
+
+.mensaje {
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px gray;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sombra:hover {
+  box-shadow: 0px 0px 50px var(--amarillo);
+}
+
+/* PALETA DE COLORES */
+
+.verde {
+  background: #2a9d8f;
+}
+
+.amarillo {
+  background: #e9c46a;
+}
+
+.naranja {
+  background: #f4a261;
+}
+
+.rosa {
+  background: #e76f51;
+}
+
+.azul {
+  background: #264653;
+}
