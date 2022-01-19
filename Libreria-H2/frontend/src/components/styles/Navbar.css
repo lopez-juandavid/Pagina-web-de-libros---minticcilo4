@@ -1,0 +1,52 @@
+.limon {
+  background: lime;
+}
+
+.prueba {
+  background: #fff4cc;
+}
+
+.bdTop {
+  border-top: 2px solid red;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.fijo {
+  position: sticky;
+  top: 0;
+}
+
+.mensaje {
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px gray;
+}
+
+.sombra:hover {
+  box-shadow: 5px 5px 5px #f4a261;
+}
+
+
+/* PALETA DE COLORES */
+
+.verde {
+  background: #2A9D8F;
+}
+
+.amarillo {
+  background: #E9C46A;
+}
+
+.naranja {
+  background: #F4A261;
+}
+
+.rosa {
+  background: #E76F51;
+}
+
+.azul {
+  background: #264653;
+}
